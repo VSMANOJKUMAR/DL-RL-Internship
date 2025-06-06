@@ -37,7 +37,7 @@ pip install streamlit pandas
 streamlit run ml_comparison.py
 ```
 
-The app will open in your browser at `https://traditional-vs-nn.streamlit.app/`
+The app will open in your browser at `https://tradmethods-vs-nn.streamlit.app/`
 
 ## 📁 File Structure
 ```
@@ -112,4 +112,4 @@ This project is open source and available under the MIT License.
 ---
 
 *💡 Remember: The best model is the one that solves your specific problem effectively!*
-* Access the link : https://traditional-vs-nn.streamlit.app/ *
+* Access the link : https://tradmethods-vs-nn.streamlit.app/*
